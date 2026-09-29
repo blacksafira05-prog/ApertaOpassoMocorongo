@@ -1,7 +1,7 @@
 programa{
 
     funcao real media3Valores(real a, real b, real c) {
-        retorne (a + b + c) / 3
+        
     }
 
     // real a, b, c - Váriavel Global
